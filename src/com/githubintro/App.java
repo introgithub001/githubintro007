@@ -7,4 +7,6 @@ public class App {
   
   
   private String name;
+
+  private Integer age;
 }
